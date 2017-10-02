@@ -2,7 +2,7 @@
   "name": "hyperlru-map",
   "description": "hyperlru implementation backed in an Map",
   "homepage": "https://documentup.com/Kikobeats/hyperlru-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -24,18 +24,18 @@
     "hash",
     "least",
     "lru",
+    "map",
     "mru",
     "quick",
     "recently",
-    "used",
-    "map"
+    "used"
   ],
   "dependencies": {},
   "devDependencies": {
-    "hyperlru": "latest",
     "coveralls": "latest",
     "git-dirty": "latest",
     "husky": "latest",
+    "hyperlru": "latest",
     "lint-staged": "latest",
     "mocha": "latest",
     "nyc": "latest",
