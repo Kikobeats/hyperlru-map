@@ -1,0 +1,1 @@
+require('hyperlru').test(require('..'))
