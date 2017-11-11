@@ -1,5 +1,7 @@
 # hyperlru-map
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/hyperlru-map.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/hyperlru-map.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/hyperlru-map/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/hyperlru-map)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/hyperlru-map.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/hyperlru-map)
